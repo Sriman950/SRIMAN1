@@ -1,1 +1,0 @@
-https://errornetwork.pages.dev/bgmi.py
